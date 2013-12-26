@@ -1,0 +1,2 @@
+partner-ooo.github.io
+=====================
